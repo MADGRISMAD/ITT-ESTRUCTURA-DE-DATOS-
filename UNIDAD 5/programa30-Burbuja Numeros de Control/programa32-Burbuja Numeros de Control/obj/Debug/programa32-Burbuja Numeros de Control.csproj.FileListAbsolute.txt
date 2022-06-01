@@ -1,0 +1,7 @@
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa32-Burbuja Numeros de Control\programa32-Burbuja Numeros de Control\bin\Debug\programa32-Burbuja Numeros de Control.exe.config
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa32-Burbuja Numeros de Control\programa32-Burbuja Numeros de Control\bin\Debug\programa32-Burbuja Numeros de Control.exe
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa32-Burbuja Numeros de Control\programa32-Burbuja Numeros de Control\bin\Debug\programa32-Burbuja Numeros de Control.pdb
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa32-Burbuja Numeros de Control\programa32-Burbuja Numeros de Control\obj\Debug\programa32-Burbuja Numeros de Control.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa32-Burbuja Numeros de Control\programa32-Burbuja Numeros de Control\obj\Debug\programa32-Burbuja Numeros de Control.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa32-Burbuja Numeros de Control\programa32-Burbuja Numeros de Control\obj\Debug\programa32-Burbuja Numeros de Control.exe
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa32-Burbuja Numeros de Control\programa32-Burbuja Numeros de Control\obj\Debug\programa32-Burbuja Numeros de Control.pdb

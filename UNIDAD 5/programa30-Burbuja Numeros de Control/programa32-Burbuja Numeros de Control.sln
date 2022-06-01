@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa32-Burbuja Numeros de Control", "programa32-Burbuja Numeros de Control.\programa32-Burbuja Numeros de Control.csproj", "{E63108D3-18A5-4804-9890-0250C815CC89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E63108D3-18A5-4804-9890-0250C815CC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63108D3-18A5-4804-9890-0250C815CC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63108D3-18A5-4804-9890-0250C815CC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63108D3-18A5-4804-9890-0250C815CC89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65513E9A-5C56-4BD7-9217-7A54B10A589B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa33-Shell Estados de México", "programa33-Shell Estados de México\programa33-Shell Estados de México.csproj", "{9F1EC0A0-0BA2-4C32-8414-1392501F78E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F1EC0A0-0BA2-4C32-8414-1392501F78E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1EC0A0-0BA2-4C32-8414-1392501F78E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1EC0A0-0BA2-4C32-8414-1392501F78E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1EC0A0-0BA2-4C32-8414-1392501F78E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4EEA69F-B7CA-4F33-9681-E25AD0CADF94}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa33-Shell Estados de México\programa33-Shell Estados de México\bin\Debug\programa33-Shell Estados de México.exe.config
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa33-Shell Estados de México\programa33-Shell Estados de México\bin\Debug\programa33-Shell Estados de México.exe
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa33-Shell Estados de México\programa33-Shell Estados de México\bin\Debug\programa33-Shell Estados de México.pdb
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa33-Shell Estados de México\programa33-Shell Estados de México\obj\Debug\programa33-Shell Estados de México.csproj.AssemblyReference.cache
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa33-Shell Estados de México\programa33-Shell Estados de México\obj\Debug\programa33-Shell Estados de México.csproj.CoreCompileInputs.cache
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa33-Shell Estados de México\programa33-Shell Estados de México\obj\Debug\programa33-Shell Estados de México.exe
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa33-Shell Estados de México\programa33-Shell Estados de México\obj\Debug\programa33-Shell Estados de México.pdb

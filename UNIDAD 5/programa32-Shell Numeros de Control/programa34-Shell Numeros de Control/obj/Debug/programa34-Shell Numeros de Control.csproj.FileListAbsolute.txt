@@ -1,0 +1,14 @@
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\bin\Debug\programa34-Shell Numeros de Control.exe.config
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\bin\Debug\programa34-Shell Numeros de Control.exe
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\bin\Debug\programa34-Shell Numeros de Control.pdb
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\obj\Debug\programa34-Shell Numeros de Control.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\obj\Debug\programa34-Shell Numeros de Control.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\obj\Debug\programa34-Shell Numeros de Control.exe
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\obj\Debug\programa34-Shell Numeros de Control.pdb
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\bin\Debug\programa34-Shell Numeros de Control.exe.config
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\bin\Debug\programa34-Shell Numeros de Control.exe
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\bin\Debug\programa34-Shell Numeros de Control.pdb
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\obj\Debug\programa34-Shell Numeros de Control.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\obj\Debug\programa34-Shell Numeros de Control.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\obj\Debug\programa34-Shell Numeros de Control.exe
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa34-Shell Numeros de Control\programa34-Shell Numeros de Control\obj\Debug\programa34-Shell Numeros de Control.pdb

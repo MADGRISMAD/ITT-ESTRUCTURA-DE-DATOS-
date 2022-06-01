@@ -1,0 +1,7 @@
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa31-Burbuja Estados de México\programa31-Burbuja Estados de México\bin\Debug\programa31-Burbuja Estados de México.exe.config
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa31-Burbuja Estados de México\programa31-Burbuja Estados de México\bin\Debug\programa31-Burbuja Estados de México.exe
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa31-Burbuja Estados de México\programa31-Burbuja Estados de México\bin\Debug\programa31-Burbuja Estados de México.pdb
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa31-Burbuja Estados de México\programa31-Burbuja Estados de México\obj\Debug\programa31-Burbuja Estados de México.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa31-Burbuja Estados de México\programa31-Burbuja Estados de México\obj\Debug\programa31-Burbuja Estados de México.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa31-Burbuja Estados de México\programa31-Burbuja Estados de México\obj\Debug\programa31-Burbuja Estados de México.exe
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa31-Burbuja Estados de México\programa31-Burbuja Estados de México\obj\Debug\programa31-Burbuja Estados de México.pdb
