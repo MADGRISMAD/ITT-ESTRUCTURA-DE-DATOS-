@@ -1,0 +1,7 @@
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa47- Búsqueda Binaria NDC\programa47- Búsqueda Binaria NDC\bin\Debug\programa47- Búsqueda Binaria NDC.exe.config
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa47- Búsqueda Binaria NDC\programa47- Búsqueda Binaria NDC\bin\Debug\programa47- Búsqueda Binaria NDC.exe
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa47- Búsqueda Binaria NDC\programa47- Búsqueda Binaria NDC\bin\Debug\programa47- Búsqueda Binaria NDC.pdb
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa47- Búsqueda Binaria NDC\programa47- Búsqueda Binaria NDC\obj\Debug\programa47- Búsqueda Binaria NDC.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa47- Búsqueda Binaria NDC\programa47- Búsqueda Binaria NDC\obj\Debug\programa47- Búsqueda Binaria NDC.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa47- Búsqueda Binaria NDC\programa47- Búsqueda Binaria NDC\obj\Debug\programa47- Búsqueda Binaria NDC.exe
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa47- Búsqueda Binaria NDC\programa47- Búsqueda Binaria NDC\obj\Debug\programa47- Búsqueda Binaria NDC.pdb

@@ -1,0 +1,7 @@
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa43- Búsqueda Secuencial NDC\programa43- Búsqueda Secuencial NDC\bin\Debug\programa43- Búsqueda Secuencial NDC.exe.config
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa43- Búsqueda Secuencial NDC\programa43- Búsqueda Secuencial NDC\bin\Debug\programa43- Búsqueda Secuencial NDC.exe
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa43- Búsqueda Secuencial NDC\programa43- Búsqueda Secuencial NDC\bin\Debug\programa43- Búsqueda Secuencial NDC.pdb
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa43- Búsqueda Secuencial NDC\programa43- Búsqueda Secuencial NDC\obj\Debug\programa43- Búsqueda Secuencial NDC.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa43- Búsqueda Secuencial NDC\programa43- Búsqueda Secuencial NDC\obj\Debug\programa43- Búsqueda Secuencial NDC.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa43- Búsqueda Secuencial NDC\programa43- Búsqueda Secuencial NDC\obj\Debug\programa43- Búsqueda Secuencial NDC.exe
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\programa43- Búsqueda Secuencial NDC\programa43- Búsqueda Secuencial NDC\obj\Debug\programa43- Búsqueda Secuencial NDC.pdb

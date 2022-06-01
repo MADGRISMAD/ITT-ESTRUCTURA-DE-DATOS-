@@ -1,0 +1,14 @@
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\bin\Debug\Programa42- Búsqueda Secuencial EDM.exe.config
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\bin\Debug\Programa42- Búsqueda Secuencial EDM.exe
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\bin\Debug\Programa42- Búsqueda Secuencial EDM.pdb
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\obj\Debug\Programa42- Búsqueda Secuencial EDM.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\obj\Debug\Programa42- Búsqueda Secuencial EDM.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\obj\Debug\Programa42- Búsqueda Secuencial EDM.exe
+C:\Users\MrGam\Desktop\UNIDAD 6 - PROGRAMAS - E.D.D\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\obj\Debug\Programa42- Búsqueda Secuencial EDM.pdb
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 6\PROGRAMAS\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\bin\Debug\Programa42- Búsqueda Secuencial EDM.exe.config
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 6\PROGRAMAS\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\bin\Debug\Programa42- Búsqueda Secuencial EDM.exe
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 6\PROGRAMAS\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\bin\Debug\Programa42- Búsqueda Secuencial EDM.pdb
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 6\PROGRAMAS\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\obj\Debug\Programa42- Búsqueda Secuencial EDM.csproj.AssemblyReference.cache
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 6\PROGRAMAS\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\obj\Debug\Programa42- Búsqueda Secuencial EDM.csproj.CoreCompileInputs.cache
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 6\PROGRAMAS\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\obj\Debug\Programa42- Búsqueda Secuencial EDM.exe
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 6\PROGRAMAS\Programa42- Búsqueda Secuencial EDM\Programa42- Búsqueda Secuencial EDM\obj\Debug\Programa42- Búsqueda Secuencial EDM.pdb
