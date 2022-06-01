@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa 16\programa16\bin\Debug\programa16.exe.config
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa 16\programa16\bin\Debug\programa16.exe
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa 16\programa16\bin\Debug\programa16.pdb
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa 16\programa16\obj\Debug\programa16.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa 16\programa16\obj\Debug\programa16.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa 16\programa16\obj\Debug\programa16.exe
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa 16\programa16\obj\Debug\programa16.pdb
+F:\ITT\programa 16\programa16\bin\Debug\programa16.exe.config
+F:\ITT\programa 16\programa16\bin\Debug\programa16.exe
+F:\ITT\programa 16\programa16\bin\Debug\programa16.pdb
+F:\ITT\programa 16\programa16\obj\Debug\programa16.csproj.AssemblyReference.cache
+F:\ITT\programa 16\programa16\obj\Debug\programa16.csproj.CoreCompileInputs.cache
+F:\ITT\programa 16\programa16\obj\Debug\programa16.exe
+F:\ITT\programa 16\programa16\obj\Debug\programa16.pdb

@@ -1,0 +1,14 @@
+C:\Users\braul\source\repos\Programa17Gris\Programa17Gris\bin\Debug\Programa17Gris.exe.config
+C:\Users\braul\source\repos\Programa17Gris\Programa17Gris\bin\Debug\Programa17Gris.exe
+C:\Users\braul\source\repos\Programa17Gris\Programa17Gris\bin\Debug\Programa17Gris.pdb
+C:\Users\braul\source\repos\Programa17Gris\Programa17Gris\obj\Debug\Programa17Gris.csproj.AssemblyReference.cache
+C:\Users\braul\source\repos\Programa17Gris\Programa17Gris\obj\Debug\Programa17Gris.csproj.CoreCompileInputs.cache
+C:\Users\braul\source\repos\Programa17Gris\Programa17Gris\obj\Debug\Programa17Gris.exe
+C:\Users\braul\source\repos\Programa17Gris\Programa17Gris\obj\Debug\Programa17Gris.pdb
+F:\ITT\Programa17Gris\Programa17Gris\bin\Debug\Programa17Gris.exe.config
+F:\ITT\Programa17Gris\Programa17Gris\bin\Debug\Programa17Gris.exe
+F:\ITT\Programa17Gris\Programa17Gris\bin\Debug\Programa17Gris.pdb
+F:\ITT\Programa17Gris\Programa17Gris\obj\Debug\Programa17Gris.csproj.AssemblyReference.cache
+F:\ITT\Programa17Gris\Programa17Gris\obj\Debug\Programa17Gris.csproj.CoreCompileInputs.cache
+F:\ITT\Programa17Gris\Programa17Gris\obj\Debug\Programa17Gris.exe
+F:\ITT\Programa17Gris\Programa17Gris\obj\Debug\Programa17Gris.pdb
