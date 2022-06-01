@@ -1,0 +1,14 @@
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa27-GrafoPonderado\programa27-GrafoPonderado\bin\Debug\programa27-GrafoPonderado.exe.config
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa27-GrafoPonderado\programa27-GrafoPonderado\bin\Debug\programa27-GrafoPonderado.exe
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa27-GrafoPonderado\programa27-GrafoPonderado\bin\Debug\programa27-GrafoPonderado.pdb
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa27-GrafoPonderado\programa27-GrafoPonderado\obj\Debug\programa27-GrafoPonderado.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa27-GrafoPonderado\programa27-GrafoPonderado\obj\Debug\programa27-GrafoPonderado.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa27-GrafoPonderado\programa27-GrafoPonderado\obj\Debug\programa27-GrafoPonderado.exe
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa27-GrafoPonderado\programa27-GrafoPonderado\obj\Debug\programa27-GrafoPonderado.pdb
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa27-GrafoPonderado\programa27-GrafoPonderado\bin\Debug\programa27-GrafoPonderado.exe.config
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa27-GrafoPonderado\programa27-GrafoPonderado\bin\Debug\programa27-GrafoPonderado.exe
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa27-GrafoPonderado\programa27-GrafoPonderado\bin\Debug\programa27-GrafoPonderado.pdb
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa27-GrafoPonderado\programa27-GrafoPonderado\obj\Debug\programa27-GrafoPonderado.csproj.AssemblyReference.cache
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa27-GrafoPonderado\programa27-GrafoPonderado\obj\Debug\programa27-GrafoPonderado.csproj.CoreCompileInputs.cache
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa27-GrafoPonderado\programa27-GrafoPonderado\obj\Debug\programa27-GrafoPonderado.exe
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa27-GrafoPonderado\programa27-GrafoPonderado\obj\Debug\programa27-GrafoPonderado.pdb
