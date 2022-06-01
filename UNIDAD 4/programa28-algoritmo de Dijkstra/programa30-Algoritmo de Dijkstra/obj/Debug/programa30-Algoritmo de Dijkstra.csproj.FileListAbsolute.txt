@@ -1,0 +1,14 @@
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\bin\Debug\programa30-Algoritmo de Dijkstra.exe.config
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\bin\Debug\programa30-Algoritmo de Dijkstra.exe
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\bin\Debug\programa30-Algoritmo de Dijkstra.pdb
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\obj\Debug\programa30-Algoritmo de Dijkstra.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\obj\Debug\programa30-Algoritmo de Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\obj\Debug\programa30-Algoritmo de Dijkstra.exe
+C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\obj\Debug\programa30-Algoritmo de Dijkstra.pdb
+C:\Users\MrGam\Desktop\ISC - SEMESTRE 3\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\bin\Debug\programa30-Algoritmo de Dijkstra.exe.config
+C:\Users\MrGam\Desktop\ISC - SEMESTRE 3\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\bin\Debug\programa30-Algoritmo de Dijkstra.exe
+C:\Users\MrGam\Desktop\ISC - SEMESTRE 3\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\bin\Debug\programa30-Algoritmo de Dijkstra.pdb
+C:\Users\MrGam\Desktop\ISC - SEMESTRE 3\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\obj\Debug\programa30-Algoritmo de Dijkstra.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\ISC - SEMESTRE 3\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\obj\Debug\programa30-Algoritmo de Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\ISC - SEMESTRE 3\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\obj\Debug\programa30-Algoritmo de Dijkstra.exe
+C:\Users\MrGam\Desktop\ISC - SEMESTRE 3\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa30-Algoritmo de Dijkstra\programa30-Algoritmo de Dijkstra\obj\Debug\programa30-Algoritmo de Dijkstra.pdb
