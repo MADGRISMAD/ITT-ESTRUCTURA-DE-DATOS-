@@ -1,0 +1,14 @@
+E:\ITT\programa 18\programa 18\programa 18\bin\Debug\programa 18.exe.config
+E:\ITT\programa 18\programa 18\programa 18\bin\Debug\programa 18.exe
+E:\ITT\programa 18\programa 18\programa 18\bin\Debug\programa 18.pdb
+E:\ITT\programa 18\programa 18\programa 18\obj\Debug\programa 18.csproj.AssemblyReference.cache
+E:\ITT\programa 18\programa 18\programa 18\obj\Debug\programa 18.csproj.CoreCompileInputs.cache
+E:\ITT\programa 18\programa 18\programa 18\obj\Debug\programa 18.exe
+E:\ITT\programa 18\programa 18\programa 18\obj\Debug\programa 18.pdb
+F:\ITT\programa 18\programa 18\programa 18\bin\Debug\programa 18.exe.config
+F:\ITT\programa 18\programa 18\programa 18\bin\Debug\programa 18.exe
+F:\ITT\programa 18\programa 18\programa 18\bin\Debug\programa 18.pdb
+F:\ITT\programa 18\programa 18\programa 18\obj\Debug\programa 18.csproj.AssemblyReference.cache
+F:\ITT\programa 18\programa 18\programa 18\obj\Debug\programa 18.csproj.CoreCompileInputs.cache
+F:\ITT\programa 18\programa 18\programa 18\obj\Debug\programa 18.exe
+F:\ITT\programa 18\programa 18\programa 18\obj\Debug\programa 18.pdb
