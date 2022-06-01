@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa9-funcion factorial", "programa9-funcion factorial\programa9-funcion factorial.csproj", "{DA6A0D9A-F7BE-427A-B28C-A7C36270CDFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6A0D9A-F7BE-427A-B28C-A7C36270CDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6A0D9A-F7BE-427A-B28C-A7C36270CDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6A0D9A-F7BE-427A-B28C-A7C36270CDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6A0D9A-F7BE-427A-B28C-A7C36270CDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A995CA-DFCF-4ACB-9282-0F1706AB06AE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\obj\Debug\netcoreapp3.1\programa10-secuencia fibonacci.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\obj\Debug\netcoreapp3.1\programa10-secuencia fibonacci.AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\obj\Debug\netcoreapp3.1\programa10-secuencia fibonacci.AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\obj\Debug\netcoreapp3.1\programa10-secuencia fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\bin\Debug\netcoreapp3.1\programa10-secuencia fibonacci.exe
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\bin\Debug\netcoreapp3.1\programa10-secuencia fibonacci.deps.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\bin\Debug\netcoreapp3.1\programa10-secuencia fibonacci.runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\bin\Debug\netcoreapp3.1\programa10-secuencia fibonacci.runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\bin\Debug\netcoreapp3.1\programa10-secuencia fibonacci.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\bin\Debug\netcoreapp3.1\programa10-secuencia fibonacci.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\obj\Debug\netcoreapp3.1\programa10-secuencia fibonacci.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\obj\Debug\netcoreapp3.1\programa10-secuencia fibonacci.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa10-secuencia fibonacci\programa10-secuencia fibonacci\obj\Debug\netcoreapp3.1\programa10-secuencia fibonacci.genruntimeconfig.cache

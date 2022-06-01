@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "programa9-funcion factorial/1.0.0": {
+        "runtime": {
+          "programa9-funcion factorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "programa9-funcion factorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

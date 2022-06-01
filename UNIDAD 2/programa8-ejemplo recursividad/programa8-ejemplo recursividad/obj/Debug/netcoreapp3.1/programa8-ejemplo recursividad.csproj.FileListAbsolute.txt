@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\obj\Debug\netcoreapp3.1\programa8-ejemplo recursividad.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\obj\Debug\netcoreapp3.1\programa8-ejemplo recursividad.AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\obj\Debug\netcoreapp3.1\programa8-ejemplo recursividad.AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\obj\Debug\netcoreapp3.1\programa8-ejemplo recursividad.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\bin\Debug\netcoreapp3.1\programa8-ejemplo recursividad.exe
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\bin\Debug\netcoreapp3.1\programa8-ejemplo recursividad.deps.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\bin\Debug\netcoreapp3.1\programa8-ejemplo recursividad.runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\bin\Debug\netcoreapp3.1\programa8-ejemplo recursividad.runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\bin\Debug\netcoreapp3.1\programa8-ejemplo recursividad.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\bin\Debug\netcoreapp3.1\programa8-ejemplo recursividad.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\obj\Debug\netcoreapp3.1\programa8-ejemplo recursividad.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\obj\Debug\netcoreapp3.1\programa8-ejemplo recursividad.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa8-ejemplo recursividad\programa8-ejemplo recursividad\obj\Debug\netcoreapp3.1\programa8-ejemplo recursividad.genruntimeconfig.cache

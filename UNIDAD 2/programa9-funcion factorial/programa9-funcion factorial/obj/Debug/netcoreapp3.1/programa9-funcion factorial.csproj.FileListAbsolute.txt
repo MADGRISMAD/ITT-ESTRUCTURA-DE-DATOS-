@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\bin\Debug\netcoreapp3.1\programa9-funcion factorial.exe
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\bin\Debug\netcoreapp3.1\programa9-funcion factorial.deps.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\bin\Debug\netcoreapp3.1\programa9-funcion factorial.runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\bin\Debug\netcoreapp3.1\programa9-funcion factorial.runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\bin\Debug\netcoreapp3.1\programa9-funcion factorial.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\bin\Debug\netcoreapp3.1\programa9-funcion factorial.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\obj\Debug\netcoreapp3.1\programa9-funcion factorial.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\obj\Debug\netcoreapp3.1\programa9-funcion factorial.AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\obj\Debug\netcoreapp3.1\programa9-funcion factorial.AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\obj\Debug\netcoreapp3.1\programa9-funcion factorial.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\obj\Debug\netcoreapp3.1\programa9-funcion factorial.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\obj\Debug\netcoreapp3.1\programa9-funcion factorial.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa9-funcion factorial\programa9-funcion factorial\obj\Debug\netcoreapp3.1\programa9-funcion factorial.genruntimeconfig.cache
