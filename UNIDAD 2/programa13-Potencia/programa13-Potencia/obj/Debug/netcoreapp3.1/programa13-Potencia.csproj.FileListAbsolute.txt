@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\bin\Debug\netcoreapp3.1\programa13-Potencia.exe
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\bin\Debug\netcoreapp3.1\programa13-Potencia.deps.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\bin\Debug\netcoreapp3.1\programa13-Potencia.runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\bin\Debug\netcoreapp3.1\programa13-Potencia.runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\bin\Debug\netcoreapp3.1\programa13-Potencia.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\bin\Debug\netcoreapp3.1\programa13-Potencia.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\obj\Debug\netcoreapp3.1\programa13-Potencia.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\obj\Debug\netcoreapp3.1\programa13-Potencia.AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\obj\Debug\netcoreapp3.1\programa13-Potencia.AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\obj\Debug\netcoreapp3.1\programa13-Potencia.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\obj\Debug\netcoreapp3.1\programa13-Potencia.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\obj\Debug\netcoreapp3.1\programa13-Potencia.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa13-Potencia\programa13-Potencia\obj\Debug\netcoreapp3.1\programa13-Potencia.genruntimeconfig.cache

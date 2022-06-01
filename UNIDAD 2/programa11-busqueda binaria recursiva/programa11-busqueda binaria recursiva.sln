@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa11-busqueda binaria recursiva", "programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva.csproj", "{12D8C1D2-B253-48FC-9771-88D00D016EC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D8C1D2-B253-48FC-9771-88D00D016EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D8C1D2-B253-48FC-9771-88D00D016EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D8C1D2-B253-48FC-9771-88D00D016EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D8C1D2-B253-48FC-9771-88D00D016EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D2C69B4-B20B-4264-9F20-D9A311BC32E2}
+	EndGlobalSection
+EndGlobal

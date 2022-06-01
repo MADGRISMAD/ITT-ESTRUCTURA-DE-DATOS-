@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\bin\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.exe
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\bin\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.deps.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\bin\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\bin\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\bin\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\bin\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\obj\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\obj\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\obj\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\obj\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\obj\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\obj\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa11-busqueda binaria recursiva\programa11-busqueda binaria recursiva\obj\Debug\netcoreapp3.1\programa11-busqueda binaria recursiva.genruntimeconfig.cache

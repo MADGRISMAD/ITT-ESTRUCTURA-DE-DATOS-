@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\bin\Debug\netcoreapp3.1\programa12-Torres de Hanoi.exe
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\bin\Debug\netcoreapp3.1\programa12-Torres de Hanoi.deps.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\bin\Debug\netcoreapp3.1\programa12-Torres de Hanoi.runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\bin\Debug\netcoreapp3.1\programa12-Torres de Hanoi.runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\bin\Debug\netcoreapp3.1\programa12-Torres de Hanoi.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\bin\Debug\netcoreapp3.1\programa12-Torres de Hanoi.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\obj\Debug\netcoreapp3.1\programa12-Torres de Hanoi.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\obj\Debug\netcoreapp3.1\programa12-Torres de Hanoi.AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\obj\Debug\netcoreapp3.1\programa12-Torres de Hanoi.AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\obj\Debug\netcoreapp3.1\programa12-Torres de Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\obj\Debug\netcoreapp3.1\programa12-Torres de Hanoi.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\obj\Debug\netcoreapp3.1\programa12-Torres de Hanoi.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa12-Torres de Hanoi\programa12-Torres de Hanoi\obj\Debug\netcoreapp3.1\programa12-Torres de Hanoi.genruntimeconfig.cache
