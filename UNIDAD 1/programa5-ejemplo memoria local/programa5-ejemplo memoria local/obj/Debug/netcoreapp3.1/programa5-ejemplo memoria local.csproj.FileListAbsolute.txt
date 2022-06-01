@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\bin\Debug\netcoreapp3.1\programa5-ejemplo memoria local.exe
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\bin\Debug\netcoreapp3.1\programa5-ejemplo memoria local.deps.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\bin\Debug\netcoreapp3.1\programa5-ejemplo memoria local.runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\bin\Debug\netcoreapp3.1\programa5-ejemplo memoria local.runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\bin\Debug\netcoreapp3.1\programa5-ejemplo memoria local.dll
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\bin\Debug\netcoreapp3.1\programa5-ejemplo memoria local.pdb
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\obj\Debug\netcoreapp3.1\programa5-ejemplo memoria local.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\obj\Debug\netcoreapp3.1\programa5-ejemplo memoria local.AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\obj\Debug\netcoreapp3.1\programa5-ejemplo memoria local.AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\obj\Debug\netcoreapp3.1\programa5-ejemplo memoria local.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\obj\Debug\netcoreapp3.1\programa5-ejemplo memoria local.dll
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\obj\Debug\netcoreapp3.1\programa5-ejemplo memoria local.pdb
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa5-ejemplo memoria local\programa5-ejemplo memoria local\obj\Debug\netcoreapp3.1\programa5-ejemplo memoria local.genruntimeconfig.cache

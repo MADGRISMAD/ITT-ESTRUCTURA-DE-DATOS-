@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "programa5-ejemplo memoria local/1.0.0": {
+        "runtime": {
+          "programa5-ejemplo memoria local.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "programa5-ejemplo memoria local/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

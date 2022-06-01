@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\bin\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.exe
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\bin\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.deps.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\bin\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\bin\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\bin\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.dll
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\bin\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.pdb
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\obj\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\obj\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\obj\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\obj\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\obj\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.dll
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\obj\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.pdb
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa4-ejemplo memoria dinamica\programa4-ejemplo memoria dinamica\obj\Debug\netcoreapp3.1\programa4-ejemplo memoria dinamica.genruntimeconfig.cache
