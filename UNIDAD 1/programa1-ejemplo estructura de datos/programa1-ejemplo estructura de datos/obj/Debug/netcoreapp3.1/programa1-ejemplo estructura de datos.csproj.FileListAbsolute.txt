@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\bin\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.exe
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\bin\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.deps.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\bin\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\bin\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\bin\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.dll
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\bin\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.pdb
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\obj\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\obj\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\obj\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\obj\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\obj\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.dll
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\obj\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.pdb
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa1-ejemplo estructura de datos\programa1-ejemplo estructura de datos\obj\Debug\netcoreapp3.1\programa1-ejemplo estructura de datos.genruntimeconfig.cache

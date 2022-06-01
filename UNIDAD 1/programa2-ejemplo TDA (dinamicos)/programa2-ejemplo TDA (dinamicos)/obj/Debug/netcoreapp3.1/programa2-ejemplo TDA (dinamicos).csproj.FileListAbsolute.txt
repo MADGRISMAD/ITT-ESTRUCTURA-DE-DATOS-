@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\bin\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).exe
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\bin\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).deps.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\bin\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\bin\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\bin\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).dll
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\bin\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).pdb
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\obj\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\obj\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\obj\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\obj\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\obj\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).dll
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\obj\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).pdb
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa2-ejemplo TDA (dinamicos)\programa2-ejemplo TDA (dinamicos)\obj\Debug\netcoreapp3.1\programa2-ejemplo TDA (dinamicos).genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "programa1-ejemplo estructura de datos/1.0.0": {
+        "runtime": {
+          "programa1-ejemplo estructura de datos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "programa1-ejemplo estructura de datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

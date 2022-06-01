@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "programa3-ejemplo memoria estatica/1.0.0": {
+        "runtime": {
+          "programa3-ejemplo memoria estatica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "programa3-ejemplo memoria estatica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

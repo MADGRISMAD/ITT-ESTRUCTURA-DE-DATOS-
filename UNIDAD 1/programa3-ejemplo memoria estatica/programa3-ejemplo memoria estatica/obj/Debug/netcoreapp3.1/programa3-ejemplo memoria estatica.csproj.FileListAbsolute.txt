@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\bin\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.exe
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\bin\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.deps.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\bin\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\bin\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\bin\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.dll
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\bin\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.pdb
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\obj\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\obj\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\obj\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\obj\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\obj\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.dll
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\obj\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.pdb
+C:\Users\MrGam\Desktop\UNIDAD 1 - PROGRAMAS - E.D.D\programa3-ejemplo memoria estatica\programa3-ejemplo memoria estatica\obj\Debug\netcoreapp3.1\programa3-ejemplo memoria estatica.genruntimeconfig.cache
