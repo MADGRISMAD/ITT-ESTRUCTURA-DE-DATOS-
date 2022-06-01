@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "programa14-Capital Total/1.0.0": {
+        "runtime": {
+          "programa14-Capital Total.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "programa14-Capital Total/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

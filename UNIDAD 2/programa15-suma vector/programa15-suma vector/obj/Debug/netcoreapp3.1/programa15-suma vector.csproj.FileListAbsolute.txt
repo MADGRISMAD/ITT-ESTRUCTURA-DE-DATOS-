@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\bin\Debug\netcoreapp3.1\programa15-suma vector.exe
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\bin\Debug\netcoreapp3.1\programa15-suma vector.deps.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\bin\Debug\netcoreapp3.1\programa15-suma vector.runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\bin\Debug\netcoreapp3.1\programa15-suma vector.runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\bin\Debug\netcoreapp3.1\programa15-suma vector.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\bin\Debug\netcoreapp3.1\programa15-suma vector.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\obj\Debug\netcoreapp3.1\programa15-suma vector.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\obj\Debug\netcoreapp3.1\programa15-suma vector.AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\obj\Debug\netcoreapp3.1\programa15-suma vector.AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\obj\Debug\netcoreapp3.1\programa15-suma vector.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\obj\Debug\netcoreapp3.1\programa15-suma vector.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\obj\Debug\netcoreapp3.1\programa15-suma vector.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa15-suma vector\programa15-suma vector\obj\Debug\netcoreapp3.1\programa15-suma vector.genruntimeconfig.cache

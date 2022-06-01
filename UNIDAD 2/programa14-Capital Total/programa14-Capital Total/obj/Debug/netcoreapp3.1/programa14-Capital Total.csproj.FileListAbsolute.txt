@@ -1,0 +1,13 @@
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\bin\Debug\netcoreapp3.1\programa14-Capital Total.exe
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\bin\Debug\netcoreapp3.1\programa14-Capital Total.deps.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\bin\Debug\netcoreapp3.1\programa14-Capital Total.runtimeconfig.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\bin\Debug\netcoreapp3.1\programa14-Capital Total.runtimeconfig.dev.json
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\bin\Debug\netcoreapp3.1\programa14-Capital Total.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\bin\Debug\netcoreapp3.1\programa14-Capital Total.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\obj\Debug\netcoreapp3.1\programa14-Capital Total.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\obj\Debug\netcoreapp3.1\programa14-Capital Total.AssemblyInfoInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\obj\Debug\netcoreapp3.1\programa14-Capital Total.AssemblyInfo.cs
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\obj\Debug\netcoreapp3.1\programa14-Capital Total.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\obj\Debug\netcoreapp3.1\programa14-Capital Total.dll
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\obj\Debug\netcoreapp3.1\programa14-Capital Total.pdb
+C:\Users\MrGam\Desktop\UNIDAD 2 - PROGRAMAS - E.D.D\programa14-Capital Total\programa14-Capital Total\obj\Debug\netcoreapp3.1\programa14-Capital Total.genruntimeconfig.cache
