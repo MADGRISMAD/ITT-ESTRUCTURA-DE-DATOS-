@@ -1,0 +1,7 @@
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa23-Árbol Binario de Numeros Flotantes\programa23-Árbol Binario de Numeros Flotantes\bin\Debug\programa23-Árbol Binario de Numeros Flotantes.exe.config
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa23-Árbol Binario de Numeros Flotantes\programa23-Árbol Binario de Numeros Flotantes\bin\Debug\programa23-Árbol Binario de Numeros Flotantes.exe
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa23-Árbol Binario de Numeros Flotantes\programa23-Árbol Binario de Numeros Flotantes\bin\Debug\programa23-Árbol Binario de Numeros Flotantes.pdb
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa23-Árbol Binario de Numeros Flotantes\programa23-Árbol Binario de Numeros Flotantes\obj\Debug\programa23-Árbol Binario de Numeros Flotantes.csproj.AssemblyReference.cache
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa23-Árbol Binario de Numeros Flotantes\programa23-Árbol Binario de Numeros Flotantes\obj\Debug\programa23-Árbol Binario de Numeros Flotantes.csproj.CoreCompileInputs.cache
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa23-Árbol Binario de Numeros Flotantes\programa23-Árbol Binario de Numeros Flotantes\obj\Debug\programa23-Árbol Binario de Numeros Flotantes.exe
+F:\ISC - ESTRUCTURA DE DATOS\UNIDAD 4\PROGRAMAS\programa23-Árbol Binario de Numeros Flotantes\programa23-Árbol Binario de Numeros Flotantes\obj\Debug\programa23-Árbol Binario de Numeros Flotantes.pdb
