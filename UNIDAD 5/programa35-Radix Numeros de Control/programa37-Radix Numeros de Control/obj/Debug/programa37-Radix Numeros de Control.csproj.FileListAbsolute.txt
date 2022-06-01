@@ -1,0 +1,14 @@
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\bin\Debug\programa37-Radix Numeros de Control.exe.config
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\bin\Debug\programa37-Radix Numeros de Control.exe
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\bin\Debug\programa37-Radix Numeros de Control.pdb
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\obj\Debug\programa37-Radix Numeros de Control.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\obj\Debug\programa37-Radix Numeros de Control.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\obj\Debug\programa37-Radix Numeros de Control.exe
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\obj\Debug\programa37-Radix Numeros de Control.pdb
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\bin\Debug\programa37-Radix Numeros de Control.exe.config
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\bin\Debug\programa37-Radix Numeros de Control.exe
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\bin\Debug\programa37-Radix Numeros de Control.pdb
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\obj\Debug\programa37-Radix Numeros de Control.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\obj\Debug\programa37-Radix Numeros de Control.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\obj\Debug\programa37-Radix Numeros de Control.exe
+C:\Users\PC\OneDrive\Escritorio\ISC - ESTRUCTURA DE DATOS\UNIDAD 5\PROGRAMAS\programa37-Radix Numeros de Control\programa37-Radix Numeros de Control\obj\Debug\programa37-Radix Numeros de Control.pdb

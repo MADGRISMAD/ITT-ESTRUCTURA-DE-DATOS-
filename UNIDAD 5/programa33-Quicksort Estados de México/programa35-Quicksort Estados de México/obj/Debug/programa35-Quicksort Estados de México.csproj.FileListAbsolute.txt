@@ -1,0 +1,7 @@
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa35-Quicksort Estados de México\programa35-Quicksort Estados de México\bin\Debug\programa35-Quicksort Estados de México.exe.config
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa35-Quicksort Estados de México\programa35-Quicksort Estados de México\bin\Debug\programa35-Quicksort Estados de México.exe
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa35-Quicksort Estados de México\programa35-Quicksort Estados de México\bin\Debug\programa35-Quicksort Estados de México.pdb
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa35-Quicksort Estados de México\programa35-Quicksort Estados de México\obj\Debug\programa35-Quicksort Estados de México.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa35-Quicksort Estados de México\programa35-Quicksort Estados de México\obj\Debug\programa35-Quicksort Estados de México.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa35-Quicksort Estados de México\programa35-Quicksort Estados de México\obj\Debug\programa35-Quicksort Estados de México.exe
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa35-Quicksort Estados de México\programa35-Quicksort Estados de México\obj\Debug\programa35-Quicksort Estados de México.pdb

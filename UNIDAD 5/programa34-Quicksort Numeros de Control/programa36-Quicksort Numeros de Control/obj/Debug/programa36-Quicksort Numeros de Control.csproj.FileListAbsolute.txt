@@ -1,0 +1,7 @@
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa36-Quicksort Numeros de Control\programa36-Quicksort Numeros de Control\bin\Debug\programa36-Quicksort Numeros de Control.exe.config
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa36-Quicksort Numeros de Control\programa36-Quicksort Numeros de Control\bin\Debug\programa36-Quicksort Numeros de Control.exe
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa36-Quicksort Numeros de Control\programa36-Quicksort Numeros de Control\bin\Debug\programa36-Quicksort Numeros de Control.pdb
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa36-Quicksort Numeros de Control\programa36-Quicksort Numeros de Control\obj\Debug\programa36-Quicksort Numeros de Control.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa36-Quicksort Numeros de Control\programa36-Quicksort Numeros de Control\obj\Debug\programa36-Quicksort Numeros de Control.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa36-Quicksort Numeros de Control\programa36-Quicksort Numeros de Control\obj\Debug\programa36-Quicksort Numeros de Control.exe
+C:\Users\MrGam\Desktop\UNIDAD 5 - PROGRAMAS - E.D.D\programa36-Quicksort Numeros de Control\programa36-Quicksort Numeros de Control\obj\Debug\programa36-Quicksort Numeros de Control.pdb
