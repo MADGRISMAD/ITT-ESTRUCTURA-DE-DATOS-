@@ -1,0 +1,7 @@
+C:\Users\Laboratorio\source\repos\Codigo_MergeSort\Codigo_MergeSort\bin\Debug\Codigo_MergeSort.exe.config
+C:\Users\Laboratorio\source\repos\Codigo_MergeSort\Codigo_MergeSort\bin\Debug\Codigo_MergeSort.exe
+C:\Users\Laboratorio\source\repos\Codigo_MergeSort\Codigo_MergeSort\bin\Debug\Codigo_MergeSort.pdb
+C:\Users\Laboratorio\source\repos\Codigo_MergeSort\Codigo_MergeSort\obj\Debug\Codigo_MergeSort.csproj.AssemblyReference.cache
+C:\Users\Laboratorio\source\repos\Codigo_MergeSort\Codigo_MergeSort\obj\Debug\Codigo_MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\source\repos\Codigo_MergeSort\Codigo_MergeSort\obj\Debug\Codigo_MergeSort.exe
+C:\Users\Laboratorio\source\repos\Codigo_MergeSort\Codigo_MergeSort\obj\Debug\Codigo_MergeSort.pdb
