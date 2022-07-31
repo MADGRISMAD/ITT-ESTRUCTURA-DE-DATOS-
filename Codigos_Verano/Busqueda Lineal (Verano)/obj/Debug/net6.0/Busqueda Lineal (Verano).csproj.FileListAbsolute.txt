@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\bin\Debug\net6.0\Busqueda Lineal (Verano).exe
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\bin\Debug\net6.0\Busqueda Lineal (Verano).deps.json
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\bin\Debug\net6.0\Busqueda Lineal (Verano).runtimeconfig.json
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\bin\Debug\net6.0\Busqueda Lineal (Verano).dll
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\bin\Debug\net6.0\Busqueda Lineal (Verano).pdb
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\obj\Debug\net6.0\Busqueda Lineal (Verano).csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\obj\Debug\net6.0\Busqueda Lineal (Verano).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\obj\Debug\net6.0\Busqueda Lineal (Verano).AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\obj\Debug\net6.0\Busqueda Lineal (Verano).AssemblyInfo.cs
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\obj\Debug\net6.0\Busqueda Lineal (Verano).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\obj\Debug\net6.0\Busqueda Lineal (Verano).dll
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\obj\Debug\net6.0\refint\Busqueda Lineal (Verano).dll
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\obj\Debug\net6.0\Busqueda Lineal (Verano).pdb
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\obj\Debug\net6.0\Busqueda Lineal (Verano).genruntimeconfig.cache
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Lineal (Verano)\obj\Debug\net6.0\ref\Busqueda Lineal (Verano).dll
