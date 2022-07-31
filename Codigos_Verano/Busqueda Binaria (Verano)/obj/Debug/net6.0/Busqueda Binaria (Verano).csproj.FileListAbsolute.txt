@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\bin\Debug\net6.0\Busqueda Binaria (Verano).exe
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\bin\Debug\net6.0\Busqueda Binaria (Verano).deps.json
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\bin\Debug\net6.0\Busqueda Binaria (Verano).runtimeconfig.json
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\bin\Debug\net6.0\Busqueda Binaria (Verano).dll
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\bin\Debug\net6.0\Busqueda Binaria (Verano).pdb
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\obj\Debug\net6.0\Busqueda Binaria (Verano).csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\obj\Debug\net6.0\Busqueda Binaria (Verano).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\obj\Debug\net6.0\Busqueda Binaria (Verano).AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\obj\Debug\net6.0\Busqueda Binaria (Verano).AssemblyInfo.cs
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\obj\Debug\net6.0\Busqueda Binaria (Verano).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\obj\Debug\net6.0\Busqueda Binaria (Verano).dll
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\obj\Debug\net6.0\refint\Busqueda Binaria (Verano).dll
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\obj\Debug\net6.0\Busqueda Binaria (Verano).pdb
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\obj\Debug\net6.0\Busqueda Binaria (Verano).genruntimeconfig.cache
+C:\Users\Usuario\Documents\EDD (Verano)\Busqueda Binaria (Verano)\obj\Debug\net6.0\ref\Busqueda Binaria (Verano).dll
