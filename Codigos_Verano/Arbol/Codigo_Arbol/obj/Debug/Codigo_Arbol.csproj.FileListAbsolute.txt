@@ -1,0 +1,15 @@
+C:\Users\Laboratorio\source\repos\Codigo_Arbol\Codigo_Arbol\bin\Debug\Codigo_Arbol.exe.config
+C:\Users\Laboratorio\source\repos\Codigo_Arbol\Codigo_Arbol\bin\Debug\Codigo_Arbol.exe
+C:\Users\Laboratorio\source\repos\Codigo_Arbol\Codigo_Arbol\bin\Debug\Codigo_Arbol.pdb
+C:\Users\Laboratorio\source\repos\Codigo_Arbol\Codigo_Arbol\obj\Debug\Codigo_Arbol.csproj.AssemblyReference.cache
+C:\Users\Laboratorio\source\repos\Codigo_Arbol\Codigo_Arbol\obj\Debug\Codigo_Arbol.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\source\repos\Codigo_Arbol\Codigo_Arbol\obj\Debug\Codigo_Arbol.exe
+C:\Users\Laboratorio\source\repos\Codigo_Arbol\Codigo_Arbol\obj\Debug\Codigo_Arbol.pdb
+C:\Users\Gris\Desktop\Codigos_Verano\Codigo_Arbol\Codigo_Arbol\bin\Debug\Codigo_Arbol.exe.config
+C:\Users\Gris\Desktop\Codigos_Verano\Codigo_Arbol\Codigo_Arbol\bin\Debug\Codigo_Arbol.exe
+C:\Users\Gris\Desktop\Codigos_Verano\Codigo_Arbol\Codigo_Arbol\bin\Debug\Codigo_Arbol.pdb
+C:\Users\Gris\Desktop\Codigos_Verano\Codigo_Arbol\Codigo_Arbol\obj\Debug\Codigo_Arbol.csproj.AssemblyReference.cache
+C:\Users\Gris\Desktop\Codigos_Verano\Codigo_Arbol\Codigo_Arbol\obj\Debug\Codigo_Arbol.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gris\Desktop\Codigos_Verano\Codigo_Arbol\Codigo_Arbol\obj\Debug\Codigo_Arbol.csproj.CoreCompileInputs.cache
+C:\Users\Gris\Desktop\Codigos_Verano\Codigo_Arbol\Codigo_Arbol\obj\Debug\Codigo_Arbol.exe
+C:\Users\Gris\Desktop\Codigos_Verano\Codigo_Arbol\Codigo_Arbol\obj\Debug\Codigo_Arbol.pdb
